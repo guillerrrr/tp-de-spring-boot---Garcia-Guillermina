@@ -64,5 +64,4 @@ Las respuestas incluyen `timestamp`, `status`, `error` y `path`.
 
 ---
 
-> **Autor/a:** (tu nombre y legajo)  
-> **Cátedra:** Programación III — Tecn. Univ. en Programación (a distancia)
+> **Autor/a:** Garcia Guillermina - 50919
